@@ -147,3 +147,5 @@ facial_detection/images/
 /voice_detection/audio_speech_actors_01-24/
 /voice_detection/AudioWAV/
 /voice_detection/TESS Toronto emotional speech set data/
+
+/flask_app/.DS_Store
